@@ -35,8 +35,6 @@ Welcome to my Amazon Clone project! This project is a simple HTML and Vanilla CS
 
 ## Screenshots <a id="screenshots"></a>
 ![ss1](https://github.com/rajveermakkar/amazon-clone/assets/154929435/9eaef4b4-3966-4386-807b-e850388c8269)
-![ss2](https://github.com/rajveermakkar/amazon-clone/assets/154929435/b33a9874-7abc-47a4-b463-25ff0dbf04d4)
-![ss3](https://github.com/rajveermakkar/amazon-clone/assets/154929435/e5319cf4-069f-4dca-9681-a82e690cdc01)
 
 ## Contributing <a id="contributing"></a>
 
